@@ -1,0 +1,10 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\SystemMonitor\bin\Debug\SystemMonitor.exe.config
+E:\Univer\SPO\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe.config
+E:\Univer\SPO\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csprojResolveAssemblyReference.cache
+E:\Univer\SPO\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.Properties.Resources.resources
+E:\Univer\SPO\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csproj.GenerateResource.Cache
+E:\Univer\SPO\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe
+E:\Univer\SPO\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.pdb
+E:\Univer\SPO\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.exe
+E:\Univer\SPO\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.pdb
+E:\Univer\SPO\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.Form1.resources
