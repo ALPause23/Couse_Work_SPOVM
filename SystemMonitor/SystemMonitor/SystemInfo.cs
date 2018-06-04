@@ -10,7 +10,7 @@ using System.Threading;
 
 namespace SystemMonitor
 {
-    class SystemInfo : OuputData
+    class SystemInfo
     {
         private Processor processor;
         private OS os;

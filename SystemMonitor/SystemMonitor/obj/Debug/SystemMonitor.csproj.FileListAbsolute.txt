@@ -8,3 +8,6 @@ E:\Univer\SPO\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.pdb
 E:\Univer\SPO\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.exe
 E:\Univer\SPO\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.pdb
 E:\Univer\SPO\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.Form1.resources
+E:\Univer\SPO\Курсач 4сем\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe.config
+E:\Univer\SPO\Курсач 4сем\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.exe
+E:\Univer\SPO\Курсач 4сем\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.pdb
